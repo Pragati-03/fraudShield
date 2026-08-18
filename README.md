@@ -193,10 +193,7 @@ Planned work beyond Phase 1 includes:
 
 | Name | Role | GitHub |
 |---|---|---|
-| _Add name_ | _Add role_ | _Add handle_ |
-| _Add name_ | _Add role_ | _Add handle_ |
-| _Add name_ | _Add role_ | _Add handle_ |
-
+|Pragati Agrawal | _Add role_ | pragati-03 |
 ---
 
 <sub>Submitted for OMNIKON National Hackathon 2026 · Problem Statement Omni_FinTech_3 · Phase 1</sub>
